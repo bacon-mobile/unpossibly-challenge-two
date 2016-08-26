@@ -14,7 +14,7 @@ _build file is for Android, Apple's PhoneKit is not out of beta for iOS
 
 
 
-• NÍ HÂO !! Do you like podcasts? Visit my friends GrandTheftAural.com
+• NÍ HÂO !! Do you like podcasts? Visit my friends http://GrandTheftAural.com/
 
 
 
